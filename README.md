@@ -17,4 +17,4 @@ If you whant to visit News Hive-Github code
 
 To visit my News Hive! site 👉[click-here](https://news-hive-frontend.netlify.app/)
 
-check and support me.😊
+Thanks you for visiting😊
