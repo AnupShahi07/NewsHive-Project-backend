@@ -11,7 +11,7 @@ Deployed backend on render for free and frontend part is deployed in Netlify.
 ---
 
 If you whant to visit News Hive-Github code
-👉[click here](https://github.com/bhanu0221/NewsHive-Project-Frontend.git)
+👉[click here](https://github.com/AnupShahi07/NewsHive-Project-Frontend.git)
 
 ---
 
